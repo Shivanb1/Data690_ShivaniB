@@ -56,8 +56,11 @@ Implemented using Oracle and Java Object Oriented Concepts.
 ## Extracurricular Activities
 
 -> Worked as coordinator for National Service Scheme.
+
 ->Volunteered Haritha-Haram event on 11th July, 2016 at Hyderabad KIIMS Hospital.
+
 ->Worked as Student Coordinator for Sreevision event on 18th December, 2016 at SNIST conducted by Youth For Seva.
+
 ->Volunteered Annual College Reunion Celebrations Rugveda held on 6th January, 2018 at SNIST.
    
 
