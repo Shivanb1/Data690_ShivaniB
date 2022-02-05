@@ -31,14 +31,14 @@ To secure a challenging position in a perceived relationship to develop my learn
  
  -> Accenture solutions private limited - Application Development Analyst(Full-time Job)
  
-     *Roles:Responsible for Design, build and configure applications to meet business process and application requirements.
+     **Roles:Responsible for Design, build and configure applications to meet business process and application requirements.
             Developed Interfaces, reports, Adobe forms, smart forms and enhancements using SAP ABAP.
             Resolved system test and validation problems to provide normal program functioning.
             Maintained on-time rate for developmental deliverables.
        
   -> Srinidhi Institute of Science and Technology - (Internship Under Professor.Balram)
   
-      *Roles and responsibilities included: Worked on "Irrigation Cloud Systems" using Machine Learning.
+      **Roles and responsibilities included: Worked on "Irrigation Cloud Systems" using Machine Learning.
       
      
 ## Projects
